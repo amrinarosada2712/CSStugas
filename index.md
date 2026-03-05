@@ -46,9 +46,8 @@ Card: `position: relative;`
 
 Badge/label: `position: absolute; top: ...; right: ...;`
 
-Ini bikin label “PROMO” nempel di pojok card tanpa ganggu layout utama.  
-  
-  
+Ini bikin label “PROMO” nempel di pojok card tanpa ganggu layout utama.
+
 Tahap 1 — Buat struktur HTML dasar (3 menu)
 
 Buat file `index.html`, isi dulu HTML-nya (tanpa CSS dulu):
@@ -109,7 +108,6 @@ Di `<head>`, tambahkan `<style>`:
 
   h1 { margin: 0 0 16px; }
 </style>
-
 ```
 
 Hasil: halaman lebih rapi, ada padding.
@@ -211,3 +209,5 @@ Lalu tambahkan CSS:
   margin-bottom: 10px;
 }
 ```
+
+# [**Kerjakan Tugas**](tugas.md)
